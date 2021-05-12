@@ -7,7 +7,7 @@
 <h1 align="center">Inkline</h1>
     
 <p align="center">
-    Inkline's documentation and homepage is built with Nuxt and publicly hosted on GitHub Pages. Inkline is written and maintained by <a href="https://twitter.com/alexgrozav">@alexgrozav</a>. 
+    Inkline documentation and homepage for version 2 (currently version 3) is built with Nuxt and publicly hosted on GitHub Pages. Inkline is written and maintained by <a href="https://twitter.com/alexgrozav">@alexgrozav</a>. 
     <br/>
     <br/>
     <a href="https://inkline.io">Homepage</a>
