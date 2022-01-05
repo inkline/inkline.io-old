@@ -7,7 +7,7 @@
 <h1 align="center">Inkline</h1>
     
 <p align="center">
-    Inkline documentation and homepage for Inkline, built with Vite.js and publicly hosted on DigitalOcean. Inkline is written and maintained by <a href="https://twitter.com/alexgrozav">@alexgrozav</a>. 
+    Inkline documentation and homepage for version 2 (currently version 3) is built with Nuxt and publicly hosted on GitHub Pages. Inkline is written and maintained by <a href="https://twitter.com/alexgrozav">@alexgrozav</a>. 
     <br/>
     <br/>
     <a href="https://inkline.io">Homepage</a>
@@ -24,8 +24,8 @@
 
 1. First, install dependencies using `npm install`.
 2. From the root directory, run `npm run dev` in the command line.
-3. Open `http://localhost:8080` in your browser.
+3. Open `http://localhost:3000` in your browser.
 
 ## Copyright and license
-Homepage and documentation copyright 2017-2020 [Inkline Authors](https://github.com/inkline/inkline.io/graphs/contributors). 
+Homepage and documentation copyright 2017-2022 [Inkline Authors](https://github.com/inkline/inkline.io/graphs/contributors). 
 Docs released under [MIT License](https://github.com/inkline/inkline/blob/master/packages/docs/LICENSE).
